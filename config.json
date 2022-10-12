@@ -1,19 +1,19 @@
 {
   "contactOwner": "628817839722",
-  "ownerNumber": ["628817839722@s.whatsapp.net"],
-  "botName": "VelzzyBOT-MDོ",
+  "ownerNumber": ["6288991344802@s.whatsapp.net"],
+  "botName": "KyzheBOT-ID",
   "ownerName": "RonzzOfcོ",
   "pathimg": "./temp/logo.jpg",
-  "footer": "VelzzyBOT-MDོ © RonzzOfcོ",
+  "footer": "KyzzeHDོ © RonzzOfcོ",
   "apikey": "c34aebf5f6314445fae014b8bcc3cec9f8327d96d5b429f0e0570d152c4207bf",
   "payment": {
-    "gopay": {
-      "nomer": "08817839722",
-      "atas_nama": "Ronzz Ofc"
+    "SMARTFREN": {
+      "nomer": "088991344802",
+      "atas_nama": "-"
     },
-    "dana": {
-      "nomer": "628817839722",
-      "atas_nama": "Ronzz YT"
+    "AXIS": {
+      "nomer": "6283146947747",
+      "atas_nama": "DisqiMaulana"
     }
   }
 }
